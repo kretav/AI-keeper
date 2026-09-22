@@ -1,0 +1,29 @@
+{
+    "KeeperLearning": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\KeeperAlpha_1\\KeeperLearning\\KeeperLearning-0.onnx",
+                "reward": null,
+                "creation_time": 1790106793.1879206,
+                "auxillary_file_paths": [
+                    "results\\KeeperAlpha_1\\KeeperLearning\\KeeperLearning-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\KeeperAlpha_1\\KeeperLearning.onnx",
+            "reward": null,
+            "creation_time": 1790106793.1879206,
+            "auxillary_file_paths": [
+                "results\\KeeperAlpha_1\\KeeperLearning\\KeeperLearning-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.2+cpu"
+    }
+}
